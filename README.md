@@ -166,7 +166,7 @@ sudo traceroute -T www.google.com
 
 ### Output
 
-![img08-ex02](img/img08-ex02.png)
+![img08-ex02](img/img08-exp02.png)
 
   
 
