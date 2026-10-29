@@ -60,7 +60,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
   
 
-![img1-ex02](/ex02/InformationGathering/img/img1-ex02.png)
+![img1-ex02](img/img1-ex02.png)
 
   
 
@@ -72,7 +72,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 
   
 
-![img2-ex02](/ex02/InformationGathering/img/img2-ex02.png)
+![img2-ex02](img/img2-ex02.png)
 
   
 
@@ -86,7 +86,7 @@ get further detail by using ip2location.com website.
 
   
 
-![img03-ex02](/ex02/InformationGathering/img/img03-ex02.png)
+![img03-ex02](img/img03-ex02.png)
 
   
   
@@ -101,7 +101,7 @@ https://web.archive.org/
 
   
 
-![img04-ex02](/ex02/InformationGathering/img/img04-ex02.png)
+![img04-ex02](img/img04-ex02.png)
 
   
   
@@ -124,7 +124,7 @@ Host: example.com
 
   
 
-![img05-ex02](/ex02/InformationGathering/img/img05-ex02.png)
+![img05-ex02](img/img05-ex02.png)
 
   
   
@@ -137,7 +137,7 @@ Host: example.com
 
   
 
-![img06-ex02](/ex02/InformationGathering/img/img06-ex02.png)
+![img06-ex02](img/img06-ex02.png)
 
   
   
@@ -151,7 +151,7 @@ Host: example.com
 
   
 
-![img07-ex02](/ex02/InformationGathering/img/img07-ex02.png)
+![img07-ex02](img/img07-ex02.png)
 
   
   
@@ -166,7 +166,7 @@ sudo traceroute -T www.google.com
 
 ### Output
 
-![img08-ex02](/ex02/InformationGathering/img/img08-ex02.png)
+![img08-ex02](img/img08-ex02.png)
 
   
 
@@ -178,7 +178,7 @@ sudo traceroute -U www.google.com
 
 ### Output
 
-![img09-ex02](/ex02/InformationGathering/img/img09-ex02.png)
+![img09-ex02](img/img09-ex02.png)
 
   
 
@@ -190,7 +190,7 @@ sudo traceroute www.google.com
 
 ### Output
 
-![img10-ex02](/ex02/InformationGathering/img/img10-ex02.png)
+![img10-ex02](img/img10-ex02.png)
 
   
   
